@@ -337,39 +337,40 @@ export default function UnitPage({ params }: { params: { grade: string; unitId: 
 
         {/* wordwall */}
         {activeTab === 'wordwall' && (
-          <div className="flex justify-center items-center h-[300px]">
-            {unit.wordwall?.map((wordwall) => (
-              <a
-              href={wordwall.url}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
-            >
-              👉 Mở trò chơi Wordwall
-            </a>
-            ))
+            <div className="flex flex-wrap justify-center gap-4 p-6 min-h-[300px]">
+              {unit.wordwall?.map((wordwall, index) => (
+                <a
+                  key={index}
+                  href={wordwall.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex flex-col items-center justify-center px-6 py-4 bg-blue-500 text-white rounded-xl hover:bg-blue-700 transition-all shadow-md hover:shadow-lg w-full max-w-[200px] text-center"
+                >
+                  <span className="font-bold mb-1">🎮 {wordwall.title || 'Trò chơi Wordwall'}</span>
+                  <span className="text-sm opacity-90">👉 Nhấn để bắt đầu</span>
+                </a>
+              ))}
+            </div>
+          )}
 
-          }
-            
-          </div>
-        )}
 
         {/* yourhomework */}
-        {activeTab === 'yourhomework' && (
-          <div className="flex justify-center items-center h-[300px]">
-            {unit.yourhomewwork?.map((yourhomework) =>(
-              <a
+       {activeTab === 'yourhomework' && (
+            <div className="flex flex-wrap justify-center gap-4 p-6 min-h-[300px]">
+              {unit.yourhomewwork?.map((yourhomework, index) => (
+                <a
+                  key={index}
                   href={yourhomework.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700"
+                  className="flex flex-col items-center justify-center px-6 py-4 bg-blue-500 text-white rounded-xl hover:bg-blue-700 transition-all shadow-md hover:shadow-lg w-full max-w-[200px] text-center"
                 >
-                  👉 Mở trò chơi Yourhomework
+                  <span className="font-bold mb-1"> {yourhomework.title || 'Trò chơi Yourhomework'}</span>
+                  <span className="text-sm opacity-90">👉 Nhấn để bắt đầu</span>
                 </a>
-            ))}
-            
-          </div>
-        )}
+              ))}
+            </div>
+          )}
 
 
       </div>
