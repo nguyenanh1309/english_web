@@ -5,13 +5,13 @@ export const grade5Units: Unit[] = [
   {
     id: 'unit-5-1',
     unitNumber: 1,
-    title: 'Hello',
-    description: 'Greeting and seft-introducing',
+    title: 'All about me!',
+    description: 'Asking and answering about personal information',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 1: All about me!',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
 
@@ -120,13 +120,13 @@ export const grade5Units: Unit[] = [
   {
     id: 'unit-5-2',
     unitNumber: 2,
-    title: 'Our names',
-    description: 'Asking and answering questions about the name of someone',
+    title: 'Our homes',
+    description: 'Asking and answering questions about where someone lives',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 1: Our homes',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -238,13 +238,13 @@ export const grade5Units: Unit[] = [
    {
     id: 'unit-5-3',
     unitNumber: 3,
-    title: 'Our friends',
-    description: 'Introducing someone',
+    title: 'My foreign friends',
+    description: 'Asking and answering about nationality and personality',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 3: My foreign friends',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -356,13 +356,13 @@ title: 'Phát âm từ vựng Unit 1',
    {
     id: 'unit-5-4',
     unitNumber: 4,
-    title: 'Our bodies',
-    description: 'Asking and answering questions about parts of body',
+    title: 'Our free time activities',
+    description: 'Asking and answering questions about someone like doing in their free time',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 4: Our free time activities',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -474,14 +474,14 @@ id: 'exercise-1',
    {
     id: 'unit-5-5',
     unitNumber: 5,
-    title: 'Our hobbies',
-    description: 'Asking and answering questions about the hobby of someone',
+    title: 'My future job',
+    description: 'Asking and answering questions about the future job',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
-        url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
+        title: 'Unit 5: My future job',
+        url: 'https://youtu.be/GYQ4R8vRBf8?si=z2Wa4qm8T3oEaEsf',
       },
       {
         id: 'video-2',
@@ -589,14 +589,14 @@ questions: [
    {
     id: 'unit-5-6',
     unitNumber: 6,
-    title: 'Our school',
-    description: 'Asking and answering questions about school',
+    title: 'Our school room',
+    description: 'Asking and answering questions about the location of a room in a school',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
-        url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
+        title: 'Unit 6: Our school room',
+        url: 'https://youtu.be/dBG2ftwd2yI?si=rylAkGUBacGO7MGA',
       },
       {
         id: 'video-2',
@@ -695,14 +695,14 @@ explanation: '"Hello" nghĩa là "Xin chào" trong tiếng Việt.',
    {
     id: 'unit-5-7',
     unitNumber: 7,
-    title: 'Classroom instructions',
-    description: 'Giving instructions',
+    title: 'Our favourite school activities',
+    description: 'asking and answering about favourite school activities',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
-        url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
+        title: 'Unit 7: Our favourite school activities',
+        url: 'https://youtu.be/En8TeZ2tuLg?si=PFHjXjMIpUbQpOan',
       },
       {
         id: 'video-2',
@@ -802,14 +802,14 @@ title: 'Bài tập ngữ pháp',
  {
     id: 'unit-5-8',
     unitNumber: 8,
-    title: 'My school things',
-    description: 'Talking about having a school thing',
+    title: 'In our classroom',
+    description: 'Asking and answering about the location of school things',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
-        url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
+        title: 'Unit 8: In our classroom',
+        url: 'https://youtu.be/m9BPzi3XSNc?si=dhhcXuxLNvUTEoce',
       },
       {
         id: 'video-2',
@@ -908,14 +908,14 @@ title: 'Bài tập ngữ pháp',
  {
     id: 'unit-5-9',
     unitNumber: 9,
-    title: 'Colours',
-    description: 'Asking and answering questions about the colour of a school thing',
+    title: 'Our outdoor activities',
+    description: 'Asking and answering questions about where someone was and what someone did',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
-        url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
+        title: 'Unit 9: Our outdoor activities',
+        url: 'https://youtu.be/G7DBDh4hEpg?si=YkIY_YU5vKFQgXMc',
       },
       {
         id: 'video-2',
@@ -1014,14 +1014,14 @@ url: 'https://wordwall.net/resource/75185486',
    {
     id: 'unit-5-10',
     unitNumber: 10,
-    title: 'Break time activities',
-    description: 'Asking and answering questions about school break time activities',
+    title: 'Our school trip',
+    description: 'Asking and answering questions about a school trip in the past',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
-        url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
+        title: 'Unit 10: Our school trip',
+        url: 'https://youtu.be/AYYxCmJKr4M?si=61JGuGoVB9h8cmu1',
       },
       {
         id: 'video-2',
@@ -1126,7 +1126,7 @@ title: 'yourhomework1',
     videos: [
       {
         id: 'video-1',
-        title: 'Unit 1: Family time',
+        title: 'Unit 11: Family time',
         url: 'https://youtu.be/4vB8_IdnTno?si=8kVyb15bIycqjFyM',
       },
       {
@@ -1179,8 +1179,8 @@ title: 'yourhomework1',
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
-        url: '/tienganh5/Unit 11 TA 5.png'
+        title: 'Unit 11: Family time',
+        url: '/tienganh5/11.png'
       },
     ],
 
@@ -1221,7 +1221,7 @@ title: 'yourhomework1',
     videos: [
       {
         id: 'video-1',
-        title: 'unit 2: Our Tet holiday',
+        title: 'unit 12: Our Tet holiday',
         url: 'https://youtu.be/TZHO-pnyqDw?si=f6rXLFMGZTW6MryF',
       },
       {
@@ -1275,7 +1275,7 @@ url: 'https://www.youtube.com/embed/sample2',      },
       {
         id: 'inforgraphics-1',
         title: 'Unit 2: Our Tet holiday',
-        url: '/tienganh5/Unit 12 -TA5.png'
+        url: '/tienganh5/12.png'
       },
     ],
 
@@ -1310,14 +1310,14 @@ url: 'https://www.youtube.com/embed/sample2',      },
    {
     id: 'unit-5-13',
     unitNumber: 13,
-    title: 'My house',
-    description: 'Asking and answering questions about the location of a room in a house',
+    title: 'Our special days',
+    description: 'Asking and answering questions about what someone will do, food and drinks at an event',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
-        url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
+        title: 'Unit 13: Our special days',
+        url: 'https://youtu.be/a0otzLQ_QUE?si=WQtLhIXcvEgQP_C_',
       },
       {
         id: 'video-2',
@@ -1370,7 +1370,7 @@ type: 'fill-in-blank',
       {
         id: 'inforgraphics-1',
         title: 'Our special days',
-        url: '/tienganh5/Unit 13- TA 5.png'
+        url: '/tienganh5/13.jpg'
       },
     ],
 
@@ -1412,13 +1412,13 @@ type: 'fill-in-blank',
    {
     id: 'unit-5-14',
     unitNumber: 14,
-    title: 'My bedroom',
-    description: 'Talking about quantities of things in a room',
+    title: 'Staying healthy',
+    description: 'Asking and answering about lifestyle and frequency of an activities',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 14: Staying healthy',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1472,7 +1472,7 @@ question: 'Chọn đáp án đúng: "I _____ a student."',
       {
         id: 'inforgraphics-1',
         title: 'Unit 14: Staying healthy',
-        url: '/tienganh5/Unit 14 - TA 5.png'
+        url: '/tienganh5/14.jpg'
       },
     ],
 
@@ -1512,13 +1512,13 @@ question: 'Chọn đáp án đúng: "I _____ a student."',
    {
     id: 'unit-5-15',
     unitNumber: 15,
-    title: 'At the dining table',
-    description: 'Asking and answering questions about what someone would like to eat or drink',
+    title: 'Our health',
+    description: 'Asking and answering questions about common health problem, Giving health advice',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 15: Our health',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1572,7 +1572,7 @@ question: 'Chọn đáp án đúng: "I _____ a student."',
       {
         id: 'inforgraphics-1',
         title: 'Unit 15: Our health',
-        url: '/tienganh5/Unit 15 -TA 5.png'
+        url: '/tienganh5/15.jpg'
       },
     ],
 
@@ -1618,13 +1618,13 @@ url: 'https://wordwall.net/play/99426/476/6425',
    {
     id: 'unit-5-16',
     unitNumber: 16,
-    title: 'My pets',
-    description: 'Asking and answering questions about having pets',
+    title: 'Seasons and the weather',
+    description: 'Asking and answering questions about the weather and what people wear in different seasons',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 16: Seasons and the weather',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1678,7 +1678,7 @@ url: 'https://wordwall.net/play/99426/476/6425',
       {
         id: 'inforgraphics-1',
         title: 'Unit 16: Seasons and weather',
-        url: '/tienganh5/Unit 16 - TA 5.png'
+        url: '/tienganh5/16.jpg'
       },
     ],
 
@@ -1718,13 +1718,13 @@ title: 'yourhomework1',
    {
     id: 'unit-5-17',
     unitNumber: 17,
-    title: 'Our toys',
-    description: 'Talking about having toys',
+    title: 'Stories for children',
+    description: 'Asking and answering about the main characters in a story',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 17: Stories for children',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1778,7 +1778,7 @@ title: 'yourhomework1',
       {
         id: 'inforgraphics-1',
         title: 'Unit 17: Stories for children',
-        url: '/tienganh5/UNIT 17 -TA 5.png'
+        url: '/tienganh5/17.jpg'
       },
     ],
 
@@ -1825,13 +1825,13 @@ title: 'yourhomework1',
    {
     id: 'unit-5-18',
     unitNumber: 18,
-    title: 'Playing and doing',
-    description: 'Asking and answering questions about what someone doing',
+    title: 'Means of transport',
+    description: 'Asking and answering questions about where someone wants to visit and means of transport',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 18: Means of transport',
 url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1885,7 +1885,7 @@ url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       {
         id: 'inforgraphics-1',
         title: 'Unit 18: Means of transport',
-        url: '/tienganh5/UNIT 18-TA 5.jpg'
+        url: '/tienganh5/18.jpg'
       },
     ],
 
@@ -1932,13 +1932,13 @@ url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
    {
     id: 'unit-5-19',
     unitNumber: 19,
-    title: 'Outdoor activities',
-    description: 'Asking and answering questions about someone is doing outdoors',
+    title: 'Places of interest',
+    description: 'Asking and answering questions about the distance and opinion of a place',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 19: Places of interest',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1992,7 +1992,7 @@ totalPoints: 10,
       {
         id: 'inforgraphics-1',
         title: 'Unit 19: Places of interest',
-        url: '/tienganh5/UNIT 19 -TA 5.png'
+        url: '/tienganh5/19.png'
       },
     ],
 
@@ -2033,13 +2033,13 @@ totalPoints: 10,
    {
     id: 'unit-5-20',
     unitNumber: 20,
-    title: 'At the zoo',
-    description: 'Asking and answering questions about what animals someone can see at the zoo',
+    title: 'Our summer holiday',
+    description: 'Asking and answering questions about what someone is going to do',
     grade: 5,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 20: Our summer holiday',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -2093,7 +2093,7 @@ question: 'Điền từ thích hợp: "_____ to meet you!"',
       {
         id: 'inforgraphics-1',
         title: 'Unit 20: Our summer holiday',
-        url: '/tienganh5/Unit 20-TA 5.png'
+        url: '/tienganh5/20.png'
       },
     ],
 

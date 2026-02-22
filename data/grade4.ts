@@ -5,13 +5,13 @@ export const grade4Units: Unit[] = [
   {
     id: 'unit-4-1',
     unitNumber: 1,
-    title: 'Hello',
-    description: 'Greeting and seft-introducing',
+    title: 'My friends',
+    description: 'Asking and answering about where someone is from',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 1: My friends',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
 
@@ -61,7 +61,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 1: My friends',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -89,13 +89,13 @@ export const grade4Units: Unit[] = [
   {
     id: 'unit-4-2',
     unitNumber: 2,
-    title: 'Our names',
-    description: 'Asking and answering questions about the name of someone',
+    title: 'Time and daily routines',
+    description: 'Asking and answering questions about the time',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 2: Time and daily routines',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -148,7 +148,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 2: Time and daily routines',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -177,13 +177,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-3',
     unitNumber: 3,
-    title: 'Our friends',
-    description: 'Introducing someone',
+    title: 'My week',
+    description: 'Asking and answering about days of the week and what someone does',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 3: My week',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -236,7 +236,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 3: My week',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -265,13 +265,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-4',
     unitNumber: 4,
-    title: 'Our bodies',
-    description: 'Asking and answering questions about parts of body',
+    title: 'My birthday party',
+    description: 'Asking and answering questions about birthday and what someone wants to eat or drink',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 4: My birthday party',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -324,7 +324,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 4: My birthday party',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -353,13 +353,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-3-5',
     unitNumber: 5,
-    title: 'Our hobbies',
-    description: 'Asking and answering questions about the hobby of someone',
+    title: 'Things we can do',
+    description: 'Asking and answering questions about the ability of someone',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 5: Things we can do',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -412,7 +412,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 5: Things we can do',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -442,13 +442,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-3-6',
     unitNumber: 6,
-    title: 'Our school',
-    description: 'Asking and answering questions about school',
+    title: 'Our school facilities',
+    description: 'Asking and answering questions about location of a school and the quantity of school facilities',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 6: Our school facilities',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -501,7 +501,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 6: Our school facilities',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -530,13 +530,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-7',
     unitNumber: 7,
-    title: 'Classroom instructions',
-    description: 'Giving instructions',
+    title: 'Our timetables',
+    description: 'Asking and answering about the timetable and the school subjects',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 7: Our timetables',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -589,7 +589,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 7: Our timetables',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -619,13 +619,13 @@ export const grade4Units: Unit[] = [
  {
     id: 'unit-4-8',
     unitNumber: 8,
-    title: 'My school things',
-    description: 'Talking about having a school thing',
+    title: 'My favourite subjects',
+    description: 'Asking and answering about favourite subject and the reason for liking a school subject',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 8: My favourite subjects',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -678,7 +678,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 8: My favourite subjects',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -707,13 +707,13 @@ export const grade4Units: Unit[] = [
  {
     id: 'unit-4-9',
     unitNumber: 9,
-    title: 'Colours',
-    description: 'Asking and answering questions about the colour of a school thing',
+    title: 'Our sports day',
+    description: 'Asking and answering questions about when a sport day is',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 9: Our sports day',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -766,7 +766,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 9: Our sports day',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -801,13 +801,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-10',
     unitNumber: 10,
-    title: 'Break time activities',
-    description: 'Asking and answering questions about school break time activities',
+    title: 'Our summer holidays',
+    description: 'Asking and answering questions about where someone was',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 10: Our summer holiday',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -860,7 +860,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 10: Our summer holiday',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -889,13 +889,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-11',
     unitNumber: 11,
-    title: 'My family',
-    description: 'Asking and answering questions about a family member',
+    title: 'My home',
+    description: 'Asking and answering questions about where someone live',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 11: My home',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -948,7 +948,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 11: My home',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -979,12 +979,12 @@ export const grade4Units: Unit[] = [
     id: 'unit-4-12',
     unitNumber: 12,
     title: 'Jobs',
-    description: 'Asking and answering questions about the job of a family member',
+    description: 'Asking and answering questions about jobs and places of work',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 12: Jobs',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1037,7 +1037,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 12: Jobs',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -1067,13 +1067,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-13',
     unitNumber: 13,
-    title: 'My house',
-    description: 'Asking and answering questions about the location of a room in a house',
+    title: 'Appearance',
+    description: 'Asking and answering questions about appearance of somenone',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 13: Appearance',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1126,7 +1126,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 13: Appearance',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -1157,13 +1157,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-14',
     unitNumber: 14,
-    title: 'My bedroom',
-    description: 'Talking about quantities of things in a room',
+    title: 'Daily activities',
+    description: 'Asking and answering when someone does an activity',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 14: Daily activities',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1216,7 +1216,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 14: Daily activities',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -1245,13 +1245,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-15',
     unitNumber: 15,
-    title: 'At the dining table',
-    description: 'Asking and answering questions about what someone would like to eat or drink',
+    title: 'My familys weekends',
+    description: 'Asking and answering questions about what someone does, where someone go',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 15',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1304,7 +1304,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 15',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
@@ -1333,13 +1333,13 @@ export const grade4Units: Unit[] = [
    {
     id: 'unit-4-16',
     unitNumber: 16,
-    title: 'My pets',
-    description: 'Asking and answering questions about having pets',
+    title: 'Weather',
+    description: 'Asking and answering questions about weather in the past',
     grade: 4,
     videos: [
       {
         id: 'video-1',
-        title: 'Bài 1: Chào hỏi và giới thiệu',
+        title: 'Unit 16: Weather',
         url: 'https://youtu.be/EN5BBs_CLLk?si=C6Wh2jwoZhcInLbd',
       },
       {
@@ -1392,7 +1392,7 @@ export const grade4Units: Unit[] = [
     img: [
       {
         id: 'inforgraphics-1',
-        title: 'hinh anh bai 1',
+        title: 'Unit 16: Weather',
         url: '/unit_1ta6_gemini.jpg'
       },
     ],
